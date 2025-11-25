@@ -1,0 +1,482 @@
+[
+  {
+    "spectatorId": "SP001",
+    "matchId": "MCH01",
+    "entryTime": "2025-07-10T18:30:00",
+    "gate": "Gate A1",
+    "ticketNumber": "TK-10001-AGD",
+    "age": 28,
+    "nationality": "Maroc",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Nord",
+      "bloc": "A",
+      "rang": 1,
+      "siege": 10
+    }
+  },
+  {
+    "spectatorId": "SP002",
+    "matchId": "MCH02",
+    "entryTime": "2025-07-11T19:15:00",
+    "gate": "Gate B2",
+    "ticketNumber": "TK-10002-AGD",
+    "age": 45,
+    "nationality": "Sénégal",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Sud",
+      "bloc": "B",
+      "rang": 2,
+      "siege": 5
+    }
+  },
+  {
+    "spectatorId": "SP003",
+    "matchId": "MCH03",
+    "entryTime": "2025-07-12T20:00:00",
+    "gate": "Gate C3",
+    "ticketNumber": "TK-10003-AGD",
+    "age": 32,
+    "nationality": "Côte d'Ivoire",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Est",
+      "bloc": "C",
+      "rang": 3,
+      "siege": 8
+    }
+  },
+  {
+    "spectatorId": "SP004",
+    "matchId": "MCH04",
+    "entryTime": "2025-07-13T17:45:00",
+    "gate": "Gate D4",
+    "ticketNumber": "TK-10004-AGD",
+    "age": 29,
+    "nationality": "Maroc",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Ouest",
+      "bloc": "D",
+      "rang": 4,
+      "siege": 15
+    }
+  },
+  {
+    "spectatorId": "SP005",
+    "matchId": "MCH05",
+    "entryTime": "2025-07-14T18:20:00",
+    "gate": "Gate E5",
+    "ticketNumber": "TK-10005-AGD",
+    "age": 50,
+    "nationality": "Égypte",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Nord",
+      "bloc": "E",
+      "rang": 5,
+      "siege": 20
+    }
+  },
+  {
+    "spectatorId": "SP006",
+    "matchId": "MCH06",
+    "entryTime": "2025-07-15T19:10:00",
+    "gate": "Gate F6",
+    "ticketNumber": "TK-10006-AGD",
+    "age": 22,
+    "nationality": "Algérie",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Sud",
+      "bloc": "F",
+      "rang": 6,
+      "siege": 25
+    }
+  },
+  {
+    "spectatorId": "SP007",
+    "matchId": "MCH07",
+    "entryTime": "2025-07-16T16:50:00",
+    "gate": "Gate G7",
+    "ticketNumber": "TK-10007-AGD",
+    "age": 35,
+    "nationality": "Tunisie",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Est",
+      "bloc": "G",
+      "rang": 7,
+      "siege": 30
+    }
+  },
+  {
+    "spectatorId": "SP008",
+    "matchId": "MCH08",
+    "entryTime": "2025-07-17T17:30:00",
+    "gate": "Gate H8",
+    "ticketNumber": "TK-10008-AGD",
+    "age": 41,
+    "nationality": "Nigeria",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Ouest",
+      "bloc": "H",
+      "rang": 8,
+      "siege": 35
+    }
+  },
+  {
+    "spectatorId": "SP009",
+    "matchId": "MCH09",
+    "entryTime": "2025-07-18T18:45:00",
+    "gate": "Gate I9",
+    "ticketNumber": "TK-10009-AGD",
+    "age": 27,
+    "nationality": "Ghana",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Nord",
+      "bloc": "I",
+      "rang": 9,
+      "siege": 40
+    }
+  },
+  {
+    "spectatorId": "SP010",
+    "matchId": "MCH10",
+    "entryTime": "2025-07-19T19:20:00",
+    "gate": "Gate J10",
+    "ticketNumber": "TK-10010-AGD",
+    "age": 33,
+    "nationality": "Cameroun",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Sud",
+      "bloc": "J",
+      "rang": 10,
+      "siege": 45
+    }
+  },
+  {
+    "spectatorId": "SP011",
+    "matchId": "MCH01",
+    "entryTime": "2025-07-10T18:25:00",
+    "gate": "Gate A1",
+    "ticketNumber": "TK-10011-AGD",
+    "age": 26,
+    "nationality": "Maroc",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Nord",
+      "bloc": "A",
+      "rang": 1,
+      "siege": 11
+    }
+  },
+  {
+    "spectatorId": "SP012",
+    "matchId": "MCH02",
+    "entryTime": "2025-07-11T19:10:00",
+    "gate": "Gate B2",
+    "ticketNumber": "TK-10012-AGD",
+    "age": 38,
+    "nationality": "Sénégal",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Sud",
+      "bloc": "B",
+      "rang": 2,
+      "siege": 6
+    }
+  },
+  {
+    "spectatorId": "SP013",
+    "matchId": "MCH03",
+    "entryTime": "2025-07-12T20:05:00",
+    "gate": "Gate C3",
+    "ticketNumber": "TK-10013-AGD",
+    "age": 31,
+    "nationality": "Côte d'Ivoire",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Est",
+      "bloc": "C",
+      "rang": 3,
+      "siege": 9
+    }
+  },
+  {
+    "spectatorId": "SP014",
+    "matchId": "MCH04",
+    "entryTime": "2025-07-13T17:40:00",
+    "gate": "Gate D4",
+    "ticketNumber": "TK-10014-AGD",
+    "age": 44,
+    "nationality": "Maroc",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Ouest",
+      "bloc": "D",
+      "rang": 4,
+      "siege": 16
+    }
+  },
+  {
+    "spectatorId": "SP015",
+    "matchId": "MCH05",
+    "entryTime": "2025-07-14T18:15:00",
+    "gate": "Gate E5",
+    "ticketNumber": "TK-10015-AGD",
+    "age": 52,
+    "nationality": "Égypte",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Nord",
+      "bloc": "E",
+      "rang": 5,
+      "siege": 21
+    }
+  },
+  {
+    "spectatorId": "SP016",
+    "matchId": "MCH06",
+    "entryTime": "2025-07-15T19:05:00",
+    "gate": "Gate F6",
+    "ticketNumber": "TK-10016-AGD",
+    "age": 23,
+    "nationality": "Algérie",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Sud",
+      "bloc": "F",
+      "rang": 6,
+      "siege": 26
+    }
+  },
+  {
+    "spectatorId": "SP017",
+    "matchId": "MCH07",
+    "entryTime": "2025-07-16T16:55:00",
+    "gate": "Gate G7",
+    "ticketNumber": "TK-10017-AGD",
+    "age": 36,
+    "nationality": "Tunisie",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Est",
+      "bloc": "G",
+      "rang": 7,
+      "siege": 31
+    }
+  },
+  {
+    "spectatorId": "SP018",
+    "matchId": "MCH08",
+    "entryTime": "2025-07-17T17:35:00",
+    "gate": "Gate H8",
+    "ticketNumber": "TK-10018-AGD",
+    "age": 42,
+    "nationality": "Nigeria",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Ouest",
+      "bloc": "H",
+      "rang": 8,
+      "siege": 36
+    }
+  },
+  {
+    "spectatorId": "SP019",
+    "matchId": "MCH09",
+    "entryTime": "2025-07-18T18:50:00",
+    "gate": "Gate I9",
+    "ticketNumber": "TK-10019-AGD",
+    "age": 29,
+    "nationality": "Ghana",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Nord",
+      "bloc": "I",
+      "rang": 9,
+      "siege": 41
+    }
+  },
+  {
+    "spectatorId": "SP020",
+    "matchId": "MCH10",
+    "entryTime": "2025-07-19T19:25:00",
+    "gate": "Gate J10",
+    "ticketNumber": "TK-10020-AGD",
+    "age": 34,
+    "nationality": "Cameroun",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Sud",
+      "bloc": "J",
+      "rang": 10,
+      "siege": 46
+    }
+  },
+  {
+    "spectatorId": "SP021",
+    "matchId": "MCH01",
+    "entryTime": "2025-07-10T18:35:00",
+    "gate": "Gate A1",
+    "ticketNumber": "TK-10021-AGD",
+    "age": 30,
+    "nationality": "Maroc",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Nord",
+      "bloc": "A",
+      "rang": 1,
+      "siege": 12
+    }
+  },
+  {
+    "spectatorId": "SP022",
+    "matchId": "MCH02",
+    "entryTime": "2025-07-11T19:20:00",
+    "gate": "Gate B2",
+    "ticketNumber": "TK-10022-AGD",
+    "age": 47,
+    "nationality": "Sénégal",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Sud",
+      "bloc": "B",
+      "rang": 2,
+      "siege": 7
+    }
+  },
+  {
+    "spectatorId": "SP023",
+    "matchId": "MCH03",
+    "entryTime": "2025-07-12T20:10:00",
+    "gate": "Gate C3",
+    "ticketNumber": "TK-10023-AGD",
+    "age": 33,
+    "nationality": "Côte d'Ivoire",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Est",
+      "bloc": "C",
+      "rang": 3,
+      "siege": 10
+    }
+  },
+  {
+    "spectatorId": "SP024",
+    "matchId": "MCH04",
+    "entryTime": "2025-07-13T17:50:00",
+    "gate": "Gate D4",
+    "ticketNumber": "TK-10024-AGD",
+    "age": 28,
+    "nationality": "Maroc",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Ouest",
+      "bloc": "D",
+      "rang": 4,
+      "siege": 17
+    }
+  },
+  {
+    "spectatorId": "SP025",
+    "matchId": "MCH05",
+    "entryTime": "2025-07-14T18:25:00",
+    "gate": "Gate E5",
+    "ticketNumber": "TK-10025-AGD",
+    "age": 55,
+    "nationality": "Égypte",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Nord",
+      "bloc": "E",
+      "rang": 5,
+      "siege": 22
+    }
+  },
+  {
+    "spectatorId": "SP026",
+    "matchId": "MCH06",
+    "entryTime": "2025-07-15T19:15:00",
+    "gate": "Gate F6",
+    "ticketNumber": "TK-10026-AGD",
+    "age": 24,
+    "nationality": "Algérie",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Sud",
+      "bloc": "F",
+      "rang": 6,
+      "siege": 27
+    }
+  },
+  {
+    "spectatorId": "SP027",
+    "matchId": "MCH07",
+    "entryTime": "2025-07-16T17:00:00",
+    "gate": "Gate G7",
+    "ticketNumber": "TK-10027-AGD",
+    "age": 37,
+    "nationality": "Tunisie",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Est",
+      "bloc": "G",
+      "rang": 7,
+      "siege": 32
+    }
+  },
+  {
+    "spectatorId": "SP028",
+    "matchId": "MCH08",
+    "entryTime": "2025-07-17T17:40:00",
+    "gate": "Gate H8",
+    "ticketNumber": "TK-10028-AGD",
+    "age": 43,
+    "nationality": "Nigeria",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Ouest",
+      "bloc": "H",
+      "rang": 8,
+      "siege": 37
+    }
+  },
+  {
+    "spectatorId": "SP029",
+    "matchId": "MCH09",
+    "entryTime": "2025-07-18T18:55:00",
+    "gate": "Gate I9",
+    "ticketNumber": "TK-10029-AGD",
+    "age": 31,
+    "nationality": "Ghana",
+    "ticketType": "Standard",
+    "seatLocation": {
+      "tribune": "Nord",
+      "bloc": "I",
+      "rang": 9,
+      "siege": 42
+    }
+  },
+  {
+    "spectatorId": "SP030",
+    "matchId": "MCH10",
+    "entryTime": "2025-07-19T19:30:00",
+    "gate": "Gate J10",
+    "ticketNumber": "TK-10030-AGD",
+    "age": 39,
+    "nationality": "Cameroun",
+    "ticketType": "VIP",
+    "seatLocation": {
+      "tribune": "Sud",
+      "bloc": "J",
+      "rang": 10,
+      "siege": 47
+    }
+  }
+]
